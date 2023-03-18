@@ -8,7 +8,7 @@ def ler_xml_DANFE(nota: str):
     Args:
         nota (str): caminho do arquivo da nota fiscal.
 
-    Returns:
+    Returns: a
         dict[str, Any]: dicionário com as informações principais da nota fiscal
     """
     # abrir e ler o arquivo
